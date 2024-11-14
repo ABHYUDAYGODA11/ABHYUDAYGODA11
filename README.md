@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ABHYUDAYGODA11
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning basic and advance python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Developer in python 
+- 📫 How to reach me : mail at abhyudaygoda11@gmail.com
 
 <!---
 ABHYUDAYGODA11/ABHYUDAYGODA11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
